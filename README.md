@@ -1,6 +1,6 @@
 # check_ripe_atlas_probe
 
-A perl plugin to monitor the connection state of your RIPE Atlas probe. This plugin provides no performance data. It uses the public RIPE Atlas API.
+A plugin to monitor the connection state of your RIPE Atlas probe. This plugin provides no performance data. It uses the public RIPE Atlas API.
 
 **Please don't put too much stress on the API. A call every 30 minute is enough!**
 
